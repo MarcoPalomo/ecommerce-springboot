@@ -8,8 +8,8 @@
 
 When adding new features or components to your e-commerce application, you'll typically create new classes in these respective packages. For example, if you were to add an Order feature, you might modify:
 
-``Order.java`` in the model package
-``OrderRepository.java`` in the repository package
-``OrderService.java`` in the service package
-``OrderController.java`` in the controller package
+* ``Order.java`` in the model package
+* ``OrderRepository.java`` in the repository package
+* ``OrderService.java`` in the service package
+* ``OrderController.java`` in the controller package
 
