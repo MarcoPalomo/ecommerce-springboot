@@ -6,7 +6,7 @@
 * ``repository``: Contains interfaces for database operations
 * ``service``: Contains service classes that implement business logic
 
-When adding new features or components to your e-commerce application, you'll typically create new classes in these respective packages. For example, if you were to add an Order feature, you might modify:
+(TODO) When adding new features or components to your e-commerce application, you'll typically create new classes in these respective packages. For example, if you were to add an Order feature, you might modify:
 
 * ``Order.java`` in the model package
 * ``OrderRepository.java`` in the repository package
