@@ -6,6 +6,7 @@ import java.math.BigDecimal;
 import java.util.Optional;
 
 @DataJpaTest
+//for testing repositories, you can use @DataJpaTest which sets up an in-memory database.
 class ProductRepositoryTest {
 
     @Autowired
